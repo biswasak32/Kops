@@ -1,0 +1,2 @@
+# Kops
+Kops detail-documents
